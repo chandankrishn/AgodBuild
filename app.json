@@ -1,0 +1,1 @@
+{   "name": "App name",    "scripts": {     "deploy": "command that won't work!!"   } }
